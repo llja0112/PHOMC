@@ -21,7 +21,17 @@ export default function HomeNavbar () {
             <Nav.Link as={Link} href="/registration">Registration</Nav.Link>
             <Nav.Link as={Link} href="/callforpaper">Call for paper</Nav.Link>
             <Nav.Link as={Link} href="/sponsorship">Sponsorship</Nav.Link>
-            <Nav.Link as={Link} href="/travel">Travel</Nav.Link>
+            <NavDropdown title="Travel" align={{lg: 'start'}}>
+              <NavDropdown.Item as={Link} href='/travel/venue'>
+                Venue
+              </NavDropdown.Item>
+              <NavDropdown.Item as={Link} href="/travel/transport">
+                Transport
+              </NavDropdown.Item>
+              <NavDropdown.Item as={Link} href="/travel/overseas">
+                Overseas Participants
+              </NavDropdown.Item>
+            </NavDropdown>
           </Nav>
         </Navbar.Collapse>
       </Container>
