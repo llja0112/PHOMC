@@ -1,6 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '@/styles/global.css'
 import HomeNavbar from "@/components/navbar";
+import Footer from "@/components/footer";
 
 export const metadata = {
   title: 'PHOMC 2024',
@@ -17,6 +18,7 @@ export default function RootLayout({
       <body>
         <HomeNavbar />
         {children}
+        <Footer />
       </body>
     </html>
   )
