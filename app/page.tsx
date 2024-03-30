@@ -1,25 +1,14 @@
 "use client"
 
 import Image from 'next/image';
-import { Chrono } from 'react-chrono';
+import PaperDeadline from '@/components/paperDeadline';
+import RegistrationFeeDetails from '@/components/registrationFeeDetails';
 import mainPic from '@/public/main.jpg';
 import academiaPic from '@/public/academia.jpg';
+import organisersPic from '@/public/organisers.jpg';
 import '@/styles/home.css';
 
 export default function () {
-  const items = [{
-    title: "1st April 2024",
-    cardTitle: "Call for papers",
-  }, {
-    title: "30th June 2024",
-    cardTitle: "Deadline for paper submission",
-  }, {
-    title: "31st July 2024",
-    cardTitle: "Notification of paper acceptance",
-  }, {
-    title: "14th August 2024",
-    cardTitle: "Deadline for registration & payment",
-  }];
 
   return (
     <>
@@ -36,7 +25,7 @@ export default function () {
       </div>
       <div id="content" className="pt-3">
         <div className="container">
-          <div className="card mb-3">
+          <div className="card mb-5">
             <div className="row g-0">
               <div className="col-md-4">
                 <Image src={academiaPic} className="img-fluid rounded-start" alt="Academia picture" />
@@ -62,22 +51,24 @@ export default function () {
           </div>
 
           <div className="mb-3">
-            <h1 className="fs-1 text-center">Abstract submission deadlines</h1>
+            <h1 className="fs-1 text-center">Abstract Submission Deadlines</h1>
           </div>
 
-          <div className="mb-3">
-            <Chrono mode="VERTICAL_ALTERNATING" cardHeight={110} disableToolbar={true}>
-              {items.map((item, index) => (
-                <div className="text-center" key={index}>
-                  <h1 className="fs-4">{item.title}</h1>
-                  <p className="lead text-muted">{item.cardTitle}</p>
-                </div>
-              ))}
-            </Chrono>
+          <div className="mb-5">
+            <PaperDeadline />
           </div>
 
-          <div className="mb-3">
-            <h1 className="fs-1 text-center">Abstract submission deadlines</h1>
+          <div className="mb-5">
+            <h1 className="fs-1 text-center mb-3">Conference Registration Fees</h1>
+            <div className="row">
+              <div className="col-md-8 offset-md-2">
+                <RegistrationFeeDetails />
+              </div>
+            </div>
+          </div>
+
+          <div className="mb-5 text-center">
+            <Image className="rounded img-fluid" src={organisersPic} alt={"Organisers' details image"}/>
           </div>
         </div>
       </div>
