@@ -59,7 +59,7 @@ export default function Page () {
               </tbody>
             </table>
 
-            <h3>
+            <h3 className="text-center">
               Getting Around Singapore
             </h3>
 
@@ -67,7 +67,7 @@ export default function Page () {
               Singapore’s public transport system is fast and efficient and will whizz you to most places without fuss.
             </p>
 
-            <h4>
+            <h4 className="text-center">
               By Train
             </h4>
 
@@ -80,7 +80,7 @@ export default function Page () {
 
             </p>
 
-            <h4>
+            <h4 className="text-center">
               By Bus
             </h4>
 
@@ -93,7 +93,7 @@ export default function Page () {
             </p>
 
 
-            <h4>
+            <h4 className="text-center">
               By Taxi
             </h4>
 
