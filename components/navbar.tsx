@@ -44,6 +44,9 @@ export default function HomeNavbar () {
               </NavDropdown.Item>
             </NavDropdown>
           </Nav>
+          <Nav className="ms-auto">
+            <a className="btn btn-outline-light" href="https://web.cvent.com/event/712cfd3d-f3a8-4c6e-82d3-50e958c5a72b/regProcessStep1">Register Now</a>
+          </Nav>
         </Navbar.Collapse>
       </Container>
     </Navbar>
