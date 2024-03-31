@@ -18,11 +18,11 @@ export default function PaperDeadline(){
   }];
 
   return (
-    <Chrono mode="VERTICAL_ALTERNATING" cardHeight={110} disableToolbar={true}>
+    <Chrono mode="VERTICAL_ALTERNATING" cardHeight={100} disableToolbar={true}>
       {items.map((item, index) => (
         <div className="text-center" key={index}>
-          <h1 className="fs-4">{item.title}</h1>
-          <p className="lead text-muted">{item.cardTitle}</p>
+          <h3 className="fs-5">{item.title}</h3>
+          <p className="text-muted">{item.cardTitle}</p>
         </div>
       ))}
     </Chrono>
