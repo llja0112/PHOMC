@@ -17,6 +17,17 @@ export default function HomeNavbar () {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link as={Link} href="/">Home</Nav.Link>
+            <NavDropdown title="About" align={{lg: 'start'}}>
+              <NavDropdown.Item as={Link} href="/about/organisers">
+                Organisers
+              </NavDropdown.Item>
+              <NavDropdown.Item as={Link} href="/about/committee">
+                Organising Committee
+              </NavDropdown.Item>
+              <NavDropdown.Item as={Link} href="/about/scientificCommittee">
+                Scientific Committee
+              </NavDropdown.Item>
+            </NavDropdown>
             <Nav.Link as={Link} href="/programme">Programme</Nav.Link>
             <Nav.Link as={Link} href="/registration">Registration</Nav.Link>
             <Nav.Link as={Link} href="/callforpaper">Call for paper</Nav.Link>
