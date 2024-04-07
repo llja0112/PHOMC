@@ -4,7 +4,7 @@ import Image from 'next/image';
 import PaperDeadline from '@/components/paperDeadline';
 import RegistrationFeeDetails from '@/components/registrationFeeDetails';
 import mainPic from '@/public/main.jpg';
-import academiaPic from '@/public/academia.jpg';
+import mainMobilePic from '@/public/main_mobile.jpg';
 import organisersPic from '@/public/organisers.jpg';
 import '@/styles/home.css';
 
@@ -13,8 +13,17 @@ export default function () {
   return (
     <>
       <div id="banner">
-        <Image 
+        <Image className="d-none d-md-block"
         src={mainPic} 
+        alt="Main picture" 
+        sizes="100vw"
+        style={{
+          width: '100%',
+          height: 'auto',
+        }}
+        />
+        <Image className="d-md-none"
+        src={mainMobilePic}  
         alt="Main picture" 
         sizes="100vw"
         style={{
