@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import LimHuaiYangPic from '@/public/scientificCommittee/LimHuaiYang.jpeg';
-import SylviaTeoPic from '@/public/scientificCommittee/SylviaTeo.jpeg';
+import SylviaTeoPic from '@/public/scientificCommittee/SylviaTeo.png';
 import TysonChanPic from '@/public/scientificCommittee/TysonChan.jpeg';
 import LimDweeWeePic from '@/public/scientificCommittee/LimDweeWee.jpeg';
 import RaymondLimPic from '@/public/scientificCommittee/RaymondLimBoonTar.jpeg';
