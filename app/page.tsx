@@ -8,6 +8,7 @@ import mainMobilePic from '@/public/main_mobile.jpg';
 import organisersPic from '@/public/organisers.jpg';
 import '@/styles/home.css';
 import {FaHandshake, FaRocket, FaHouseMedical} from 'react-icons/fa6';
+import Link from 'next/link';
 
 export default function () {
 
@@ -43,10 +44,7 @@ export default function () {
                 </h5>
                 <p className="card-text text-center text-muted lead">23rd - 24th September 2024</p>
                 <p className="card-text">
-                  PHOMC 2024 is scheduled to take place at the prestigious Academia, within the Singapore General Hospital Campus.
-                </p>
-                <p className="card-text">
-                  This year, under the inspiring theme <strong className="text-danger">"Frontiers in Health"</strong>, the conference is organized by the College of Public Health and Occupational Physicians of the Academy of Medicine, Singapore. As an annual gathering, the conference prides itself on assembling a diverse and distinguished panel of public health professionals, practitioners, students, academics, researchers, policy-makers, and stakeholders from across the globe. This multidisciplinary event serves as a vital platform for exchanging cutting-edge insights, fostering intellectual dialogue, and exploring the latest innovations in the field of public health and occupational medicine.
+                  PHOMC 2024 is scheduled to take place at the prestigious <Link className="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/travel/venue">Academia</Link>, within the Singapore General Hospital Campus. This year, under the inspiring theme <strong className="text-danger">"Frontiers in Health"</strong>, the conference is organized by the College of Public Health and Occupational Physicians of the Academy of Medicine, Singapore. As an annual gathering, the conference prides itself on assembling a diverse and distinguished panel of public health professionals, practitioners, students, academics, researchers, policy-makers, and stakeholders from across the globe. This multidisciplinary event serves as a vital platform for exchanging cutting-edge insights, fostering intellectual dialogue, and exploring the latest innovations in the field of public health and occupational medicine.
                 </p>
               </div>
             </div>
