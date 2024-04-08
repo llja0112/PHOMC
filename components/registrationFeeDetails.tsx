@@ -43,7 +43,11 @@ export default function RegistrationFeeDetails() {
         *A certification letter from the residency program or school is needed to qualify for these categories. Please upload the document while registering or email it to <strong className="text-primary">phom2024@ams.edu.sg</strong> within 2 weeks from registration. If we do not receive the required documentary evidence, the organiser reserves the right to cancel the registration.
       </p>
       <p className="text-center">
-        <a className="btn btn-lg btn-primary" href="https://web.cvent.com/event/712cfd3d-f3a8-4c6e-82d3-50e958c5a72b/regProcessStep1">Register Now</a>
+        <a className="btn btn-lg btn-primary" 
+        href="https://web.cvent.com/event/712cfd3d-f3a8-4c6e-82d3-50e958c5a72b/regProcessStep1"
+        target="_blank">
+          Register Now
+        </a>
         <br />
         <em className="text-danger">Register before 30 June 2024 to enjoy early bird rates.</em>
       </p>
