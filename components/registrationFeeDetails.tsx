@@ -26,7 +26,7 @@ export default function RegistrationFeeDetails() {
             <td className="text-center">$440</td>
           </tr>
           <tr>
-            <th scope="row">Fellow, Academy of Medicine, Singapore (FAMS)</th>
+            <th scope="row">Ordinary Member, Academy of Medicine, Singapore</th>
             <td className="text-center">$280</td>
             <td className="text-center">$310</td>
           </tr>
