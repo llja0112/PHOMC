@@ -12,7 +12,7 @@ export default function Page (){
 
             <div className="card mb-3">
               <div className="row g-0">
-                <div className="col-md-4">
+                <div className="col-md-4 text-center">
                   <Image src={cphopPic} alt="CPHOP picture" className="img-fluid rounded-start" />
                 </div>
                 <div className="col-md-8">
@@ -37,14 +37,14 @@ export default function Page (){
 
             <div className="card mb-3">
               <div className="row g-0">
-                <div className="col-md-4">
+                <div className="col-md-4 text-center">
                   <Image src={amsPic} alt="AMS picture" className="img-fluid rounded-start" />
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
                     <h5 className="card-title">Academy of Medicine, Singapore</h5>
                     <p className="card-text">
-                      Formed in 1957, the Academy of Medicine, Singapore is a professional institution of medical and dental specialists devoted to advancing the art and science of medicine in Singapore through postgraduate specialist training; maintence of high standards of competency and ethical integrity through continuous professional development as well as dissemination of information and knowledge to the public on matters related to health.
+                      Formed in 1957, the Academy of Medicine, Singapore is a professional institution of medical and dental specialists devoted to advancing the art and science of medicine in Singapore through postgraduate specialist training; maintenance of high standards of competency and ethical integrity through continuous professional development as well as dissemination of information and knowledge to the public on matters related to health.
                     </p>
                     <p className="card-text">
                       For more information, please visit <a href="https://www.ams.edu.sg/">here</a>.
