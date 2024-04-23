@@ -16,7 +16,7 @@ export default function Page () {
               In exchange for your support, we can offer tiered advertising packages during the conference.
             </p>
             <p>
-              Download a copy of the Sponsorship Prospectus <a href="https://custom.cvent.com/FF5457269D734386A53152813B075285/files/c6fa4e93a5b649bf93ff41f84e43eb23.pdf">here</a>.
+              Download a copy of the Sponsorship Prospectus <a href="https://custom.cvent.com/FF5457269D734386A53152813B075285/files/5fc21215f92544179debaaebfcebd587.pdf">here</a>.
             </p>
             <p>
               Do reach out for more information if you are interested!

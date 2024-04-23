@@ -11,7 +11,7 @@ export default function HomeNavbar () {
     <Navbar data-bs-theme="dark" expand="lg" style={{background: "#011422"}}>
       <Container>
         <Navbar.Brand as={Link} href="/">
-          PHOMC 2024
+          PHOM 2024
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
