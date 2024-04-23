@@ -40,11 +40,11 @@ export default function () {
             <div className="row g-0">
               <div className="card-body">
                 <h5 className="card-title text-center fs-1">
-                  18th Singapore Public Health & Occupational Medicine Conference <br /> (PHOMC 2024)
+                  18th Singapore Public Health & Occupational Medicine Conference <br /> (PHOM 2024)
                 </h5>
                 <p className="card-text text-center text-muted lead">23rd - 24th September 2024</p>
                 <p className="card-text">
-                  PHOMC 2024 is scheduled to take place at the prestigious <Link className="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/travel/venue">Academia</Link>, within the Singapore General Hospital Campus. This year, under the inspiring theme <strong className="text-danger">"Frontiers in Health"</strong>, the conference is organized by the College of Public Health and Occupational Physicians of the Academy of Medicine, Singapore. As an annual gathering, the conference prides itself on assembling a diverse and distinguished panel of public health professionals, practitioners, students, academics, researchers, policy-makers, and stakeholders from across the globe. This multidisciplinary event serves as a vital platform for exchanging cutting-edge insights, fostering intellectual dialogue, and exploring the latest innovations in the field of public health and occupational medicine.
+                  PHOM 2024 is scheduled to take place at the prestigious <Link className="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="/travel/venue">Academia</Link>, within the Singapore General Hospital Campus. This year, under the inspiring theme <strong className="text-danger">"Frontiers in Health"</strong>, the conference is organized by the College of Public Health and Occupational Physicians of the Academy of Medicine, Singapore. As an annual gathering, the conference prides itself on assembling a diverse and distinguished panel of public health professionals, practitioners, students, academics, researchers, policy-makers, and stakeholders from across the globe. This multidisciplinary event serves as a vital platform for exchanging cutting-edge insights, fostering intellectual dialogue, and exploring the latest innovations in the field of public health and occupational medicine.
                 </p>
               </div>
             </div>
@@ -57,7 +57,7 @@ export default function () {
                   <FaHouseMedical className="fs-1 text-primary mb-3"/>
                   <h4>Crucial Health Issues</h4>
                   <p>
-                    PHOMC 2024 promises an enriching agenda, delving into crucial issues within population health, re-emerging infectious diseases, challenges of an ageing population, health of vulnerable groups, workplace safety and health, and aviation medicine. 
+                    PHOM 2024 promises an enriching agenda, delving into crucial issues within population health, re-emerging infectious diseases, challenges of an ageing population, health of vulnerable groups, workplace safety and health, and aviation medicine. 
                   </p>
                 </div>
               </div>

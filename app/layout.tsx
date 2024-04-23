@@ -4,8 +4,8 @@ import HomeNavbar from "@/components/navbar";
 import Footer from "@/components/footer";
 
 export const metadata = {
-  title: 'PHOMC 2024',
-  description: 'PHOMC 2024',
+  title: 'PHOM 2024',
+  description: 'PHOM 2024',
 }
 
 export default function RootLayout({
