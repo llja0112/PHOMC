@@ -60,7 +60,7 @@ export default function Page () {
                     Please do not include tables, graphs and images in the abstract.
                   </li>
                   <li>
-                    Abstracts may be revised or resubmitted before the deadline of 1 August 2023.
+                    Abstracts may be revised or resubmitted before the deadline of 1 August 2024.
                   </li>
                   <li>
                     The conference secretariat will send an acknowledgement email to the Author’s email address. If you do not receive the acknowledgement of receipt, kindly inform the secretariat immediately.
