@@ -11,7 +11,8 @@ export default function Page () {
     <div className="container">
       <div className="row">
         <div className="col-md-8 offset-md-2">
-          <h3 className="text-center my-3">Conference Programme</h3>
+          <h3 className="text-center mt-3">Conference Programme</h3>
+          <p className="text-center text-muted">Programme is subject to further change</p>
           <Tab.Container defaultActiveKey="first">
             <div className="my-3">
               <Nav variant="pills" className='justify-content-center'>
