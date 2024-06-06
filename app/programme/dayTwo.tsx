@@ -44,7 +44,9 @@ export default function DayTwo () {
               <Accordion className="my-2">
                 <Accordion.Item eventKey='0'>
                   <Accordion.Header>
-                    <strong>Track 4:</strong> Frontiers in Occupational Health
+                    <div>
+                      <strong className="text-primary">Track 4:</strong> Frontiers in Occupational Health
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
@@ -85,7 +87,9 @@ export default function DayTwo () {
                 </Accordion.Item>
                 <Accordion.Item eventKey='1'>
                   <Accordion.Header>
-                    <strong>Track 5:</strong> Game Changing Technology in Health
+                    <div>
+                      <strong className="text-primary">Track 5:</strong> Game Changing Technology in Health
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
@@ -128,7 +132,9 @@ export default function DayTwo () {
                 </Accordion.Item>
                 <Accordion.Item eventKey='2'>
                   <Accordion.Header>
-                    <strong>Track 6:</strong> Free Paper
+                    <div>
+                      <strong className="text-primary">Track 6:</strong> Free Paper
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <strong>To be announced closer to date</strong>
@@ -247,7 +253,7 @@ export default function DayTwo () {
           </tr>
           <tr className="table-success">
             <th scope="row">05:15pm</th>
-            <td colSpan={3}>End of 18th PHOMC</td>
+            <td colSpan={3}>End of 18th PHOM</td>
           </tr>
         </tbody>
       </table>

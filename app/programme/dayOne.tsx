@@ -30,10 +30,9 @@ export default function DayOne () {
               </p>
               <p>
                 <b>Welcome Remarks</b> <br /> 
-                Dr Wong Chiang Yin <br />
                 <em>
                   Master <br />
-                  Academy of Medicine
+                  Academy of Medicine, Singapore
                 </em>
               </p>
               <p>
@@ -56,9 +55,6 @@ export default function DayOne () {
                   Professor of Psychology and Director of Behavioural Sciences Initiative <br />
                   Singapore Management University
                 </em>
-              </p>
-              <p>
-                <b>Session Chairperson:</b> Dr Lim John Wah
               </p>
             </td>
           </tr>
@@ -98,7 +94,6 @@ export default function DayOne () {
               </p>
               <p>
                 <b>Panel Discussion</b><br />
-                <b>Panelists:</b> Dr Faraz Khalid, Prof (Dr) Gerald Koh Choon Huat and Dr Stephanie Ko <br />
                 <b>Moderator:</b> Dr M Premikha
               </p>
             </td>
@@ -148,7 +143,7 @@ export default function DayOne () {
               </p>
 
               <p>
-                <b>Closing the Gap between Healthspan and Lifespan: Healthy Longevity Medicine</b>
+                <b>Closing the Gap between Healthspan and Lifespan: Healthy Longevity Medicine</b><br/>
                 Prof Andrea Maier <br />
                 <em>
                   Oon Chiew Seng Professor in Medicine, National University of Singapore <br />
@@ -201,7 +196,9 @@ export default function DayOne () {
               <Accordion className="my-2">
                 <Accordion.Item eventKey='0'>
                   <Accordion.Header>
-                    <strong>Track 1:</strong> Frontiers in Digital Health
+                    <div>
+                      <strong className="text-primary">Track 1:</strong> Frontiers in Digital Health
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
@@ -233,7 +230,9 @@ export default function DayOne () {
                 </Accordion.Item>
                 <Accordion.Item eventKey='1'>
                   <Accordion.Header>
-                    <strong>Track 2:</strong> Frontiers in Aviation Medicine
+                    <div>
+                      <strong className="text-primary">Track 2:</strong> Frontiers in Aviation Medicine
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
@@ -275,7 +274,9 @@ export default function DayOne () {
                 </Accordion.Item>
                 <Accordion.Item eventKey='2'>
                   <Accordion.Header>
-                    <strong>Track 3:</strong> Advances in Healthcare for the Vulnerable
+                    <div>
+                      <strong className="text-primary">Track 3:</strong> Advances in Healthcare for the Vulnerable
+                    </div>
                   </Accordion.Header>
                   <Accordion.Body>
                       <p>
