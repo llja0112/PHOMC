@@ -98,7 +98,7 @@ export default function DayOne () {
               </p>
               <p>
                 <b>Panel Discussion</b><br />
-                <b>Panelists:</b> Dr Faraz Khalid, Prof (Dr) Gerald Koh Choon Huat, Dr Stephanie Ko <br />
+                <b>Panelists:</b> Dr Faraz Khalid, Prof (Dr) Gerald Koh Choon Huat and Dr Stephanie Ko <br />
                 <b>Moderator:</b> Dr M Premikha
               </p>
             </td>
@@ -185,7 +185,7 @@ export default function DayOne () {
               </p>
               <p>
                 <b>Panel Discussion</b> <br />
-                <b>Panelists:</b> Prof Michelle A. Williams, A/Prof Lim Wee Shiong, Mr Lee Kwok Ming. <br />
+                <b>Panelists:</b> Prof Michelle A. Williams, A/Prof Lim Wee Shiong and Mr Lee Kwok Ming <br />
                 <b>Moderator:</b> Prof Koh Woon Puay
               </p>
 
@@ -208,8 +208,8 @@ export default function DayOne () {
                       <b>Industry Innovations in Digital Health</b><br />
                       Adj Asst Prof Ng Yih Yng <br />
                       <em>
-                        Director, Digital and Smart Health Office<br />
-                        Ng Teng Fong Centre for Healthcare Innovation
+                        Director, Digital and Smart Health Office, Centre for Healthcare Innovation<br/>
+                        National Healthcare Group
                       </em>
                     </p>
                     <p>
@@ -240,8 +240,8 @@ export default function DayOne () {
                       <b>Coronary Artery Disease in Aviators – New Concepts and Insights</b><br />
                       Clin Asst Prof Koh Choong Hou <br />
                       <em>
-                        Senior Consultant Cardiologist<br />
-                        Nobel Heart Centre (Mount Elizabeth Novena Hospital) 
+                        Senior Consultant Cardiologist, Nobel Heart Centre<br />
+                        Mount Elizabeth Novena Hospital 
                       </em>
                     </p>
 
@@ -249,7 +249,7 @@ export default function DayOne () {
                       <b>Drivers of Safety Behaviours in Organisations and the Measurement of Organisational Drift</b><br />
                       Ms Cheng Chin Yi<br />
                       <em>
-                        Aviation & Organisational Psychologist, Parter<br />
+                        Aviation & Organisational Psychologist and Partner<br />
                         Cydel Pte Ltd<br /> 
                       </em>
                     </p>
@@ -258,8 +258,8 @@ export default function DayOne () {
                       <b>Space Medicine: A Hitch-hikers Guide to the Galaxy</b><br />
                       Cl. Asst. Prof Jimmy Chan Yu Lee<br />
                       <em>
-                        Clinical Director and Senior Consultant<br />
-                        Ng Teng Fong General Hospital Emergency Department 
+                        Clinical Director and Senior Consultant, Emergency Department <br />
+                        Ng Teng Fong General Hospital
                       </em>
                     </p>
 
@@ -267,8 +267,8 @@ export default function DayOne () {
                       <b>Exploring Electromyography as an Alternative to Measuring Foot Pedal Force Exertion in Routine Centrifuge Training</b><br />
                       Dr Woo Jia Hao, Alvin<br />
                       <em>
-                        Associate Consultant, Aviation Medicine<br />
-                        Singapore Changi Aeromedical Centre
+                        Associate Consultant, Aviation Medicine and Singapore Changi Aeromedical Centre <br/>
+                        Changi General Hospital
                       </em>
                     </p>
                   </Accordion.Body>
