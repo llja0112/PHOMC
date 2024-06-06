@@ -1,3 +1,7 @@
+"use client"
+
+import Accordion from 'react-bootstrap/Accordion';
+
 export default function DayOne () {
   return (
     <>
@@ -15,38 +19,43 @@ export default function DayOne () {
           </tr>
           <tr>
             <th scope="row">08:30am</th>
-            <td colSpan={3}>Arrival of Guest of Honour</td>
-          </tr>
-          <tr>
-            <th scope="row">08:35am</th>
             <td colSpan={3}>
               <p>
                 <b>Welcome Address</b><br />
-                Prof Gan Wee Hoe, <em>Council President, College of Public Health and Occupational Medicine</em>
+                Prof Gan Wee Hoe <br />
+                <em>
+                  Council President <br />
+                  College of Public Health and Occupational Medicine
+                </em>
               </p>
               <p>
                 <b>Welcome Remarks</b> <br /> 
-                Dr Wong Chiang Yin, <em>Master, Academy of Medicine</em>
+                Dr Wong Chiang Yin <br />
+                <em>
+                  Master <br />
+                  Academy of Medicine
+                </em>
+              </p>
+              <p>
+                <b>Opening Address</b><br />
+                Ms Lai Wai Lin <br /> 
+                <em>
+                  Permanent Secretary (Designate)<br />
+                  Ministry of Health
+                </em>
               </p>
             </td>
-          </tr>
-          <tr>
-            <th scope="row">09:00am</th>
-            <td colSpan={3}>
-              <b>Opening Address</b><br />
-              Ms Lai Wai Lin, <em>Permanent Secretary (Designate), Ministry of Health</em>
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">09:10am</th>
-            <td colSpan={3}>College Award Ceremony</td>
           </tr>
           <tr className="table-primary">
             <th scope="row">09:15am</th>
             <td colSpan={3}>
               <p>
-                <b>Keynote 1: Building Healthier Societies - Lessons from the social and behavioural sciences for Healthier SG</b><br />
-                Prof David Chan, <em>Professor of Psychology and Director of Beh Sciences Initiative, Singapore Management University</em>
+                <b>Keynote 1: Extending the frontiers in health through evidence-based contextualisation: Contributions from the Social and Behavioural Sciences</b><br />
+                Prof David Chan <br /> 
+                <em>
+                  Professor of Psychology and Director of Behavioural Sciences Initiative <br />
+                  Singapore Management University
+                </em>
               </p>
               <p>
                 <b>Session Chairperson:</b> Dr Lim John Wah
@@ -60,7 +69,38 @@ export default function DayOne () {
           <tr className="table-info">
             <th scope="row">10:30am</th>
             <td colSpan={3}>
-              <b>Plenary 1: Frontiers in Primary & Community Health</b>
+              <p>
+                <b>Plenary 1: Frontiers in Primary Care</b>
+              </p>
+              <p>
+                <b>Overview of PHC Global Report - 'Implementing the Primary Health Care Approach: a Primer'</b><br />
+                Dr Faraz Khalid<br />
+                <em>
+                  Research and Innovation Officer, Primary Health Care and Health Systems Strengthening<br />
+                  World Health Organization
+                </em>
+              </p>
+              <p>
+                <b>The Future of Primary Care in Population Health (& Vice-Versa): Insights from a Personal Journey</b><br />
+                Prof (Dr) Gerald Koh Choon Huat <br />
+                <em>
+                  Head and Clinical Director (Future Primary Care) <br />
+                  MOH Office of Healthcare Transformation
+                </em>
+              </p>
+              <p>
+                <b>Hospital Care Beyond Hospital Walls</b><br />
+                Dr Stephanie Ko <br />
+                <em>
+                  Consultant, Advanced Internal Medicine <br />
+                  National University Hospital
+                </em>
+              </p>
+              <p>
+                <b>Panel Discussion</b><br />
+                <b>Panelists:</b> Dr Faraz Khalid, Prof (Dr) Gerald Koh Choon Huat, Dr Stephanie Ko <br />
+                <b>Moderator:</b> Dr M Premikha
+              </p>
             </td>
           </tr>
           <tr>
@@ -71,8 +111,13 @@ export default function DayOne () {
             <th scope="row">01:15pm</th>
             <td colSpan={3}>
               <p>
-                <b>Keynote 2: Health of vulnerable populations</b><br />
-                Prof Michelle A. Williams, <em>Former Dean, School of Public Health, Havard University</em>
+                <b>Keynote 2: Safeguarding High Risk, Underserved, and Vulnerable Populations: A Public Health Imperative and Strategic Pillar for Economic Development</b><br />
+                Prof Michelle A. Williams <br /> 
+                <em>
+                  Joan and Julius Jacobson Professor of Epidemiology and Public Health <br />
+                  T.H.Chan School of Public Health <br />
+                  Harvard University
+                </em>
               </p>
               <p>
                 <b>Session Chairperson:</b> Dr Lim Huai Yang
@@ -81,7 +126,36 @@ export default function DayOne () {
           </tr>
           <tr className="table-info">
             <th scope="row">02:00pm</th>
-            <td colSpan={3}><b>Plenary 2: Longevity Medicine – Pushing the Boundaries for Healthy Aging</b></td>
+            <td colSpan={3}>
+              <p>
+                <b>Plenary 2: Longevity Medicine – Pushing the Boundaries for Healthy Aging</b>
+              </p>
+              <p>
+                <b>Diet and Healthy Longevity – Examining the Fine Print in the Evidence</b><br />
+                Prof Koh Woon Puay <br />
+                <em>
+                  Professor, Healthy Longevity Translational Research Programme<br />
+                  Yong Loo Lin School of Medicine, National University of Singapore 
+                </em>
+              </p>
+              <p>
+                <b>Midlife Obesity and Mobility Dysfunction in Late Life</b> <br />
+                Dr Rajkumar S/O Dorajoo <br />
+                <em>
+                  Senior Research Scientist, Laboratory of Metabolic Disease & Ageing Genomics<br />
+                  Genome Institute of Singapore, Agency for Science, Technology and Research (A*STAR)
+                </em>
+              </p>
+
+              <p>
+                <b>Closing the Gap between Healthspan and Lifespan: Healthy Longevity Medicine</b>
+                Prof Andrea Maier <br />
+                <em>
+                  Oon Chiew Seng Professor in Medicine, National University of Singapore <br />
+                  Co-Founder, NUS Academy for Healthy Longevity, National University of Singapore
+                </em>
+              </p>
+            </td>
           </tr>
           <tr>
             <th scope="row">03:00pm</th>
@@ -89,17 +163,151 @@ export default function DayOne () {
           </tr>
           <tr className="table-info">
             <th scope="row">03:15pm</th>
-            <td colSpan={3}><b>Plenary 3: Age is Just a Number - Building Frailty Resilient Communities</b></td>
+            <td colSpan={3}>
+              <p>
+                <b>Plenary 3: Age is Just a Number - Building Frailty Resilient Communities</b>
+              </p>
+              <p>
+                <b>Moving from Frailty-readiness to Frailty-resilience: Can We Get There?</b><br /> 
+                Associate Prof Lim Wee Shiong<br />
+                <em>
+                  Senior Consultant, Department of Geriatric Medicine and Director, Institute of Geriatrics and Active Aging<br />
+                  Tan Tock Seng Hospital 
+                </em>
+              </p>
+              <p>
+                <b>Age Well SG</b><br />
+                Mr Lee Kwok Ming <br />
+                <em>
+                  Group Director (Ageing Planning Office) <br />
+                  Ministry of Health
+                </em>
+              </p>
+              <p>
+                <b>Panel Discussion</b> <br />
+                <b>Panelists:</b> Prof Michelle A. Williams, A/Prof Lim Wee Shiong, Mr Lee Kwok Ming. <br />
+                <b>Moderator:</b> Prof Koh Woon Puay
+              </p>
+
+            </td>
           </tr>
           <tr className="table-warning">
             <th scope="row">04:30pm</th>
-            <td colSpan={3}><b>Concurrent sessions 1</b></td>
+            <td colSpan={3}><b>Parallel Tracks</b> <small className="text-muted">Click/Tap on tracks for details</small></td>
           </tr>
-          <tr>
+          <tr className="table-warning">
             <th scope="row"></th>
-            <td className="table-light" colSpan={1}><strong>Track 1:</strong> Advances in Healthcare for the Vulnerable</td>
-            <td className="table-light" colSpan={1}><strong>Track 2:</strong> Frontiers in Aviation Medicine</td>
-            <td className="table-light" colSpan={1}><strong>Track 3:</strong> Frontiers in Digital Health</td>
+            <td colSpan={3}>
+              <Accordion className="my-2">
+                <Accordion.Item eventKey='0'>
+                  <Accordion.Header>
+                    <strong>Track 1:</strong> Frontiers in Digital Health
+                  </Accordion.Header>
+                  <Accordion.Body>
+                    <p>
+                      <b>Industry Innovations in Digital Health</b><br />
+                      Adj Asst Prof Ng Yih Yng <br />
+                      <em>
+                        Director, Digital and Smart Health Office<br />
+                        Ng Teng Fong Centre for Healthcare Innovation
+                      </em>
+                    </p>
+                    <p>
+                      <b>TBD</b><br />
+                      Dr Wayne Han Lee<br />
+                      <em>
+                        Assistant Group Chief Technology Officer<br />
+                        National University Health System
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>Digital Innovation in Population Health</b><br />
+                      A/Prof Eugene Shum<br />
+                      <em>
+                        Director, Community Partnership<br />
+                        SingHealth Office of Regional Health
+                      </em>
+                    </p>
+                  </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='1'>
+                  <Accordion.Header>
+                    <strong>Track 2:</strong> Frontiers in Aviation Medicine
+                  </Accordion.Header>
+                  <Accordion.Body>
+                    <p>
+                      <b>Coronary Artery Disease in Aviators – New Concepts and Insights</b><br />
+                      Clin Asst Prof Koh Choong Hou <br />
+                      <em>
+                        Senior Consultant Cardiologist<br />
+                        Nobel Heart Centre (Mount Elizabeth Novena Hospital) 
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>Drivers of Safety Behaviours in Organisations and the Measurement of Organisational Drift</b><br />
+                      Ms Cheng Chin Yi<br />
+                      <em>
+                        Aviation & Organisational Psychologist, Parter<br />
+                        Cydel Pte Ltd<br /> 
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>Space Medicine: A Hitch-hikers Guide to the Galaxy</b><br />
+                      Cl. Asst. Prof Jimmy Chan Yu Lee<br />
+                      <em>
+                        Clinical Director and Senior Consultant<br />
+                        Ng Teng Fong General Hospital Emergency Department 
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>Exploring Electromyography as an Alternative to Measuring Foot Pedal Force Exertion in Routine Centrifuge Training</b><br />
+                      Dr Woo Jia Hao, Alvin<br />
+                      <em>
+                        Associate Consultant, Aviation Medicine<br />
+                        Singapore Changi Aeromedical Centre
+                      </em>
+                    </p>
+                  </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='2'>
+                  <Accordion.Header>
+                    <strong>Track 3:</strong> Advances in Healthcare for the Vulnerable
+                  </Accordion.Header>
+                  <Accordion.Body>
+                      <p>
+                        <b>Migrant Health in Singapore: Infectious and Non-Infectious Challenges Pre- and Post- COVID</b> <br />
+                        Adj Asst Prof Shawn Vasoo<br /> 
+                        <em>
+                          Clinical Director<br />
+                          National Centre for Infectious Diseases                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                        </em>                                                                                                                                                                                                                                     
+                      </p>
+
+                      <p>
+                        <b>Caring for Migrant Workers- “Joining Hands, Building Bonds"</b><br />                                                                                                                                                                                                                                                                                                                                                                                          Dr Halina Talib
+                        Deputy Director (Medical Policy)<br />
+                        <em>
+                          Assurance, Care & Engagement (ACE) Group<br />
+                          Ministry of Manpower
+                        </em>
+                      </p>                                                                                                     
+
+                      <p>
+                       <b>Providing Holistic Primary Care through Singapore's First Medical Centre for Migrant Workers -- St Andrew's Migrant Worker Medical Centre</b><br />
+                        Dr Loh Yik Hin<br />
+                        <em>
+                          Chief Executive Officer<br /> 
+                          St. Andrew's Community Hospital 
+                        </em>
+                      </p>
+                  </Accordion.Body>
+                </Accordion.Item>
+              </Accordion>
+            </td>
           </tr>
           <tr className="table-success">
             <th scope="row">06:15pm</th>
