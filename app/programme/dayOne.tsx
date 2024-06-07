@@ -1,6 +1,7 @@
 "use client"
 
 import Accordion from 'react-bootstrap/Accordion';
+import Link from 'next/link';
 
 export default function DayOne () {
   return (
@@ -50,11 +51,12 @@ export default function DayOne () {
             <td colSpan={3}>
               <p>
                 <b>Keynote 1: Extending the frontiers in health through evidence-based contextualisation: Contributions from the Social and Behavioural Sciences</b><br />
-                Prof David Chan <br /> 
+                Prof David Chan <br/>
                 <em>
                   Professor of Psychology and Director of Behavioural Sciences Initiative <br />
                   Singapore Management University
-                </em>
+                </em><br/>
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/13">More details</Link>
               </p>
             </td>
           </tr>
@@ -82,7 +84,8 @@ export default function DayOne () {
                 <em>
                   Head and Clinical Director (Future Primary Care) <br />
                   MOH Office of Healthcare Transformation
-                </em>
+                </em><br />
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/9">More details</Link>
               </p>
               <p>
                 <b>Hospital Care Beyond Hospital Walls</b><br />
@@ -90,7 +93,8 @@ export default function DayOne () {
                 <em>
                   Consultant, Advanced Internal Medicine <br />
                   National University Hospital
-                </em>
+                </em><br />
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/6">More details</Link>
               </p>
               <p>
                 <b>Panel Discussion</b><br />
@@ -131,7 +135,8 @@ export default function DayOne () {
                 <em>
                   Professor, Healthy Longevity Translational Research Programme<br />
                   Yong Loo Lin School of Medicine, National University of Singapore 
-                </em>
+                </em><br/>
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/3">More details</Link>
               </p>
               <p>
                 <b>Midlife Obesity and Mobility Dysfunction in Late Life</b> <br />
@@ -139,7 +144,8 @@ export default function DayOne () {
                 <em>
                   Senior Research Scientist, Laboratory of Metabolic Disease & Ageing Genomics<br />
                   Genome Institute of Singapore, Agency for Science, Technology and Research (A*STAR)
-                </em>
+                </em><br/>
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/12">More details</Link>
               </p>
 
               <p>
@@ -148,7 +154,8 @@ export default function DayOne () {
                 <em>
                   Oon Chiew Seng Professor in Medicine, National University of Singapore <br />
                   Co-Founder, NUS Academy for Healthy Longevity, National University of Singapore
-                </em>
+                </em><br/>
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/14">More details</Link>
               </p>
             </td>
           </tr>
@@ -168,7 +175,8 @@ export default function DayOne () {
                 <em>
                   Senior Consultant, Department of Geriatric Medicine and Director, Institute of Geriatrics and Active Aging<br />
                   Tan Tock Seng Hospital 
-                </em>
+                </em><br/>
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/15">More details</Link>
               </p>
               <p>
                 <b>Age Well SG</b><br />
@@ -241,7 +249,8 @@ export default function DayOne () {
                       <em>
                         Senior Consultant Cardiologist, Nobel Heart Centre<br />
                         Mount Elizabeth Novena Hospital 
-                      </em>
+                      </em><br/>
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/2">More details</Link>
                     </p>
 
                     <p>
@@ -249,8 +258,9 @@ export default function DayOne () {
                       Ms Cheng Chin Yi<br />
                       <em>
                         Aviation & Organisational Psychologist and Partner<br />
-                        Cydel Pte Ltd<br /> 
-                      </em>
+                        Cydel Pte Ltd
+                      </em><br/>
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/7">More details</Link>
                     </p>
 
                     <p>
@@ -259,7 +269,8 @@ export default function DayOne () {
                       <em>
                         Clinical Director and Senior Consultant, Emergency Department <br />
                         Ng Teng Fong General Hospital
-                      </em>
+                      </em><br/>
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/8">More details</Link>
                     </p>
 
                     <p>
@@ -285,16 +296,18 @@ export default function DayOne () {
                         <em>
                           Clinical Director<br />
                           National Centre for Infectious Diseases                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                        </em>                                                                                                                                                                                                                                     
+                        </em><br/>
+                        <Link className="btn btn-primary btn-sm mt-2" href="/speakers/4">More details</Link>
                       </p>
 
                       <p>
-                        <b>Caring for Migrant Workers- “Joining Hands, Building Bonds"</b><br />                                                                                                                                                                                                                                                                                                                                                                                          Dr Halina Talib
-                        Deputy Director (Medical Policy)<br />
+                        <b>Caring for Migrant Workers- “Joining Hands, Building Bonds"</b><br />
+                        Dr Halina Talib<br />
                         <em>
-                          Assurance, Care & Engagement (ACE) Group<br />
+                          Deputy Director (Medical Policy), Assurance, Care & Engagement (ACE) Group<br />
                           Ministry of Manpower
-                        </em>
+                        </em><br/>
+                        <Link className="btn btn-primary btn-sm mt-2" href="/speakers/0">More details</Link>
                       </p>                                                                                                     
 
                       <p>

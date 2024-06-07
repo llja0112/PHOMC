@@ -1,6 +1,7 @@
 "use client"
 
 import Accordion from 'react-bootstrap/Accordion';
+import Link from 'next/link';
 
 export default function DayTwo () {
   return (
@@ -26,7 +27,8 @@ export default function DayTwo () {
                 <em>
                   President<br/>
                   American College of Occupational and Environmental Medicine (ACOEM)
-                </em>
+                </em><br/>
+                <Link className="btn btn-primary btn-sm mt-2" href="/speakers/11">More details</Link>
               </p>
             </td>
           </tr>
@@ -55,7 +57,8 @@ export default function DayTwo () {
                       <em>
                         Group Chief Medical Board (Research)<br/>
                         National Healthcare Group
-                      </em>
+                      </em><br/>
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/10">More details</Link>
                     </p>
                     <p>
                       <b>Digital Local Connect and Living Asset Map Using Geospatial Technology</b> <br/>
@@ -72,7 +75,8 @@ export default function DayTwo () {
                         Assistant Chief Executive Officer (Transformation), Changi General Hospital <br/>
                         Development Lead, Eastern General Hospital Campus<br/>
                         Director, Centre for Healthcare Assistive & Robotics Technology (CHART) 
-                      </em>
+                      </em><br />
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/5">More details</Link>
                     </p>
 
                     <p>
@@ -81,7 +85,9 @@ export default function DayTwo () {
                       <em>
                         Deputy Director, Policy, Strategy & Design<br/>
                         GovTech
-                      </em>
+                      </em><br />
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/1">More details</Link>
+
                     </p>
                   </Accordion.Body>
                 </Accordion.Item>
