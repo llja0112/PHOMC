@@ -29,6 +29,7 @@ export default function HomeNavbar () {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link as={Link} href="/programme">Programme</Nav.Link>
+            <Nav.Link as={Link} href="/speakers">Speakers</Nav.Link>
             <Nav.Link as={Link} href="/registration">Registration</Nav.Link>
             <Nav.Link as={Link} href="/callforpaper">Call for paper</Nav.Link>
             <Nav.Link as={Link} href="/sponsorship">Sponsorship</Nav.Link>
