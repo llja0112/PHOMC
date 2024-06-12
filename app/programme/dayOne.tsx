@@ -50,10 +50,10 @@ export default function DayOne () {
             <th scope="row">09:15am</th>
             <td colSpan={3}>
               <p>
-                <b>Keynote 1: Extending the frontiers in health through evidence-based contextualisation: Contributions from the Social and Behavioural Sciences</b><br />
+                <b>Keynote 1: Extending the Frontiers in Health through Evidence-based Contextualisation: Contributions from the Social and Behavioural Sciences</b><br />
                 Prof David Chan <br/>
                 <em>
-                  Professor of Psychology and Director of Behavioural Sciences Initiative <br />
+                  Lee Kong Chian Professor of Psychology and Director of Behavioural Sciences Initiative <br />
                   Singapore Management University
                 </em><br/>
                 <Link className="btn btn-primary btn-sm mt-2" href="/speakers/13">More details</Link>
@@ -74,7 +74,7 @@ export default function DayOne () {
                 <b>Overview of PHC Global Report - 'Implementing the Primary Health Care Approach: a Primer'</b><br />
                 Dr Faraz Khalid<br />
                 <em>
-                  Research and Innovation Officer, Primary Health Care and Health Systems Strengthening<br />
+                  Research & Innovation Officer, Special Program for Primary Healthcare<br />
                   World Health Organization
                 </em>
               </p>
@@ -210,7 +210,7 @@ export default function DayOne () {
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
-                      <b>Industry Innovations in Digital Health</b><br />
+                      <b>Mind The Gap - Bridging the Digital Divide in Healthcare</b><br />
                       Adj Asst Prof Ng Yih Yng <br />
                       <em>
                         Director, Digital and Smart Health Office, Centre for Healthcare Innovation<br/>
@@ -232,6 +232,15 @@ export default function DayOne () {
                       <em>
                         Director, Community Partnership<br />
                         SingHealth Office of Regional Health
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>TBD</b><br />
+                      Mr Eyung Lim<br />
+                      <em>
+                        Director of Government Digital Services - Digital Design & Development (DCube)<br />
+                        Government Technology Agency of Singapore
                       </em>
                     </p>
                   </Accordion.Body>

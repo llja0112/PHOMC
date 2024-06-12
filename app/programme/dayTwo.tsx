@@ -25,8 +25,8 @@ export default function DayTwo () {
                 <b>Keynote 3: Global Occupational Health: Challenges and Opportunities of AI, Automation and Robotics</b><br/>
                 Dr Kenji Saito<br/>
                 <em>
-                  President<br/>
-                  American College of Occupational and Environmental Medicine (ACOEM)
+                  Immediate Past President<br/>
+                  American College of Occupational and Environmental Medicine 
                 </em><br/>
                 <Link className="btn btn-primary btn-sm mt-2" href="/speakers/11">More details</Link>
               </p>
@@ -55,7 +55,7 @@ export default function DayTwo () {
                       <b>Technology & Health: A 21st Century Gordian Knot</b> <br/>
                       Prof Benjamin Seet<br/>
                       <em>
-                        Group Chief Medical Board (Research)<br/>
+                        Group Chairman Medical Board<br/>
                         National Healthcare Group
                       </em><br/>
                       <Link className="btn btn-primary btn-sm mt-2" href="/speakers/10">More details</Link>
@@ -127,10 +127,10 @@ export default function DayTwo () {
                     </p>
 
                     <p>
-                      <b>TBD</b><br/>
+                      <b>Frontiers in Workplace Health Outreach</b><br/>
                       Mr Loh Chin Hui<br/>
                       <em>
-                        Director, Workplace Health and Outreach Division, Outreach Group<br/>
+                        Director, Workplace Health and Outreach Division<br/>
                         Health Promotion Board
                       </em>
                     </p>
@@ -165,7 +165,7 @@ export default function DayTwo () {
                 Prof Vernon Lee<br/>
                 <em>
                   Executive Director<br/>
-                  National Centre for Infectious Diseases 
+                  Interim Communicable Diseases Agency (Singapore) 
                 </em>
               </p>
               <p>
@@ -230,7 +230,8 @@ export default function DayTwo () {
                 Dr Haruki Matsumoto<br/>
                 <em>
                   Director, Healthcare Safety and Inspection Office, Health Policy Bureau<br/>
-                  Ministry of Health, Japan
+                  Ministry of Health, Labour and Welfare<br />
+                  Government, Japan
                 </em>
               </p>
 

@@ -17,7 +17,7 @@ export default function Page () {
             <div className="my-3">
               <Nav variant="pills" className='justify-content-center'>
                 <Nav.Item>
-                  <Nav.Link eventKey="first">Day 1 - 23rd Setpember</Nav.Link>
+                  <Nav.Link eventKey="first">Day 1 - 23rd September</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link eventKey="second">Day 2 - 24th September</Nav.Link>
