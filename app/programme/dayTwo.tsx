@@ -47,7 +47,7 @@ export default function DayTwo () {
                 <Accordion.Item eventKey='0'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 4:</strong> Frontiers in Occupational Health
+                      <strong className="text-primary">Track 4:</strong> Game Changing Technology in Health
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
@@ -94,7 +94,7 @@ export default function DayTwo () {
                 <Accordion.Item eventKey='1'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 5:</strong> Game Changing Technology in Health
+                      <strong className="text-primary">Track 5:</strong> Frontiers in Occupational Health
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
