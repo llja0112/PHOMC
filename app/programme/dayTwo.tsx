@@ -151,7 +151,7 @@ export default function DayTwo () {
           </tr>
           <tr>
             <th scope="row">11:45am</th>
-            <td colSpan={3}>Lunch & Viewing of Posters</td>
+            <td colSpan={3}>Lunch Symposium by Sanofi - Public Immunisation Programme, the Real World Evidence (RWE) Case Study of RSV</td>
           </tr>
           
           <tr className="table-primary">
@@ -231,7 +231,7 @@ export default function DayTwo () {
                 <em>
                   Director, Healthcare Safety and Inspection Office, Health Policy Bureau<br/>
                   Ministry of Health, Labour and Welfare<br />
-                  Government, Japan
+                  Government of Japan
                 </em>
               </p>
 

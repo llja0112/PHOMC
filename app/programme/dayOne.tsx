@@ -31,6 +31,7 @@ export default function DayOne () {
               </p>
               <p>
                 <b>Welcome Remarks</b> <br /> 
+                Dr Wong Chiang Yin <br />
                 <em>
                   Master <br />
                   Academy of Medicine, Singapore
@@ -40,7 +41,8 @@ export default function DayOne () {
                 <b>Opening Address</b><br />
                 Ms Lai Wai Lin <br /> 
                 <em>
-                  Permanent Secretary (Designate)<br />
+                  Guest of Honour<br />
+                  Permanent Secretary<br />
                   Ministry of Health
                 </em>
               </p>
@@ -104,7 +106,7 @@ export default function DayOne () {
           </tr>
           <tr>
             <th scope="row">12:30am</th>
-            <td colSpan={3}>Lunch & Viewing of Posters</td>
+            <td colSpan={3}>Lunch Symposium</td>
           </tr>
           <tr className="table-primary">
             <th scope="row">01:15pm</th>
