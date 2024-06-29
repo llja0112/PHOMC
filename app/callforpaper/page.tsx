@@ -51,7 +51,7 @@ export default function Page () {
                     Abstracts and presentations must be written in English.
                   </li>
                   <li>
-                    The abstract text is limited to 300 words. The abstract title, the author(s) or names of institutions are not included in the count of 250 words.
+                    The abstract text is limited to 250 words. The abstract title, the author(s) or names of institutions are not included in the count of 250 words.
                   </li>
                   <li>
                     References are optional. An abbreviated form is acceptable. e.g. Name et al. Journal 2009;63:93-101.
