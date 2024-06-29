@@ -7,13 +7,13 @@ export default function PaperDeadline(){
     title: "1st April 2024",
     cardTitle: "Call for papers",
   }, {
-    title: "30th June 2024",
+    title: "31st July 2024",
     cardTitle: "Deadline for paper submission",
   }, {
-    title: "31st July 2024",
+    title: "30th August 2024",
     cardTitle: "Notification of paper acceptance",
   }, {
-    title: "14th August 2024",
+    title: "7th September 2024",
     cardTitle: "Deadline for registration & payment",
   }];
 
