@@ -238,7 +238,7 @@ export default function DayOne () {
                     </p>
 
                     <p>
-                      <b>TBD</b><br />
+                      <b>Inclusive Service Delivery</b><br />
                       Mr Eyung Lim<br />
                       <em>
                         Director, Digital Government Platform<br />
@@ -256,7 +256,7 @@ export default function DayOne () {
                   <Accordion.Body>
                     <p>
                       <b>Coronary Artery Disease in Aviators – New Concepts and Insights</b><br />
-                      Clinical Asst Prof Koh Choong Hou <br />
+                      Dr Koh Choong Hou <br />
                       <em>
                         Senior Consultant Cardiologist, Nobel Heart Centre<br />
                         Mount Elizabeth Novena Hospital 

@@ -194,7 +194,7 @@ export default function DayTwo () {
                 </em>
               </p>
               <p>
-                <b>Preparing for Deliberate Biothreats</b><br/>
+                <b>Preparing Singapore for Deliberate Biothreats</b><br/>
                 A/Prof Lim Poh Lian<br/>
                 <em>
                   Director, High Level Isolation Unit<br/>
