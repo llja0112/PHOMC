@@ -222,7 +222,7 @@ export default function DayTwo () {
               </p>
               <p>
                 <b>Transforming Singapore’s Health Regulatory Ecosystem - Regulating the Future of Health</b><br/>
-                Adj A/Prof (Dr) Raymond Chua<br/>
+                Adj A/Prof Raymond Chua<br/>
                 <em>
                   Deputy Director-General Health (Health Regulation Group)<br/>
                   Ministry of Health

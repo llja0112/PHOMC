@@ -80,7 +80,7 @@ export default function DayOne () {
               </p>
               <p>
                 <b>The Future of Primary Care in Population Health (& Vice-Versa): Insights from a Personal Journey</b><br />
-                Prof (Dr) Gerald Koh Choon Huat <br />
+                Prof Gerald Koh Choon Huat <br />
                 <em>
                   Head and Clinical Director (Future Primary Care) <br />
                   MOH Office of Healthcare Transformation
