@@ -23,7 +23,7 @@ export default function DayTwo () {
             <td colSpan={3}>
               <p>
                 <b>Keynote 3: Global Occupational Health: Challenges and Opportunities of AI, Automation and Robotics</b><br/>
-                Dr Kenji Saito<br/>
+                Prof Kenji Saito<br/>
                 <em>
                   Immediate Past President<br/>
                   American College of Occupational and Environmental Medicine 
@@ -100,7 +100,7 @@ export default function DayTwo () {
                   <Accordion.Body>
                     <p>
                       <b>Heat Resilience - Bridging Research and Policy</b><br/>
-                      Dr Sharifa Badriyah<br/>
+                      Dr Sharifah Badriyah<br/>
                       <em>
                         Research Fellow, Heat Resilience & Performance Centre, Yong Loo Lin School of Medicine<br/>
                         National University of Singapore  
@@ -111,8 +111,9 @@ export default function DayTwo () {
                       <b>Tackling Shift Work Disorder in a 24-hour Economy</b><br/>
                       Dr Lim Chau Sian<br/>
                       <em>
-                        Consultant, Addiction Medicine Programme<br/>
-                        Head, Department of Psychological Medicine <br/>
+                        Senior Consultant<br/>
+                        Department of Psychological Medicine <br/>
+                        Department of Sleep Medicine, Surgery and Science<br/>
                         Changi General Hospital
                       </em> 
                     </p>                    
@@ -193,11 +194,13 @@ export default function DayTwo () {
                 </em>
               </p>
               <p>
-                <b>Preparing for Deliberate Events</b><br/>
-                Prof Lim Poh Lian<br/>
+                <b>Preparing for Deliberate Biothreats</b><br/>
+                A/Prof Lim Poh Lian<br/>
                 <em>
                   Director, High Level Isolation Unit<br/>
-                  National Centre for Infectious Diseases
+                  National Centre for Infectious Diseases<br/>
+                  Lead, Biorisk management, Asia Center for Health Security<br/>
+                  Saw Swee Hock School of Public Health, National University of Singapore
                 </em>
               </p>
               <p>
@@ -219,9 +222,9 @@ export default function DayTwo () {
               </p>
               <p>
                 <b>Transforming Singapore’s Health Regulatory Ecosystem - Regulating the Future of Health</b><br/>
-                A/Prof Raymond Chua<br/>
+                Adj A/Prof (Dr) Raymond Chua<br/>
                 <em>
-                  Deputy Director General Health (Health Regulation)<br/>
+                  Deputy Director-General Health (Health Regulation Group)<br/>
                   Ministry of Health
                 </em>
               </p>

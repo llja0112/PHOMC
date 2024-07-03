@@ -23,9 +23,9 @@ export default function DayOne () {
             <td colSpan={3}>
               <p>
                 <b>Welcome Address</b><br />
-                Prof Gan Wee Hoe <br />
+                A/Prof Gan Wee Hoe <br />
                 <em>
-                  Council President <br />
+                  President <br />
                   College of Public Health and Occupational Medicine
                 </em>
               </p>
@@ -33,15 +33,13 @@ export default function DayOne () {
                 <b>Welcome Remarks</b> <br /> 
                 Dr Wong Chiang Yin <br />
                 <em>
-                  Master <br />
                   Academy of Medicine, Singapore
                 </em>
               </p>
               <p>
-                <b>Opening Address</b><br />
-                Ms Lai Wai Lin <br /> 
+                <b>Opening Address by Guest of Honour</b><br />
+                Ms Lai Wei Lin <br /> 
                 <em>
-                  Guest of Honour<br />
                   Permanent Secretary<br />
                   Ministry of Health
                 </em>
@@ -77,7 +75,7 @@ export default function DayOne () {
                 Dr Faraz Khalid<br />
                 <em>
                   Research & Innovation Officer, Special Program for Primary Healthcare<br />
-                  World Health Organization
+                  World Health Organization Headquarter
                 </em>
               </p>
               <p>
@@ -173,7 +171,7 @@ export default function DayOne () {
               </p>
               <p>
                 <b>Moving from Frailty-readiness to Frailty-resilience: Can We Get There?</b><br /> 
-                Associate Prof Lim Wee Shiong<br />
+                A/Prof Lim Wee Shiong<br />
                 <em>
                   Senior Consultant, Department of Geriatric Medicine and Director, Institute of Geriatrics and Active Aging<br />
                   Tan Tock Seng Hospital 
@@ -220,11 +218,13 @@ export default function DayOne () {
                       </em>
                     </p>
                     <p>
-                      <b>TBD</b><br />
+                      <b>CHAMP - Automated Chronic Disease Management at Scale</b><br />
                       Dr Wayne Han Lee<br />
                       <em>
-                        Assistant Group Chief Technology Officer<br />
-                        National University Health System
+                        Associate Consultant, Family Physician<br />
+                        Queenstown Polyclinic, National University Polyclinics<br />
+                        Assistant Group Chief Technology Officer, Academic Informatics Office<br />
+                        National University Health System<br />
                       </em>
                     </p>
 
@@ -241,7 +241,7 @@ export default function DayOne () {
                       <b>TBD</b><br />
                       Mr Eyung Lim<br />
                       <em>
-                        Director of Government Digital Services - Digital Design & Development (DCube)<br />
+                        Director, Digital Government Platform<br />
                         Government Technology Agency of Singapore
                       </em>
                     </p>
@@ -256,7 +256,7 @@ export default function DayOne () {
                   <Accordion.Body>
                     <p>
                       <b>Coronary Artery Disease in Aviators – New Concepts and Insights</b><br />
-                      Clin Asst Prof Koh Choong Hou <br />
+                      Clinical Asst Prof Koh Choong Hou <br />
                       <em>
                         Senior Consultant Cardiologist, Nobel Heart Centre<br />
                         Mount Elizabeth Novena Hospital 
@@ -322,11 +322,19 @@ export default function DayOne () {
                       </p>                                                                                                     
 
                       <p>
-                       <b>Providing Holistic Primary Care through Singapore's First Medical Centre for Migrant Workers -- St Andrew's Migrant Worker Medical Centre</b><br />
+                        <b>Providing Holistic Primary Care through Singapore's First Medical Centre for Migrant Workers -- St Andrew's Migrant Worker Medical Centre</b><br />
                         Dr Loh Yik Hin<br />
                         <em>
                           Chief Executive Officer<br /> 
                           St. Andrew's Community Hospital 
+                        </em>
+                      </p>
+                      <p>
+                        <b>Bridging Gaps: Mental Health Care for Migrant Workers Facing Work-Related Injuries</b><br/>
+                        Ms Durga Devi Arivan<br/>
+                        <em>
+                          Manager, Psychotherapy and Counselling<br/>
+                          HealthServe
                         </em>
                       </p>
                   </Accordion.Body>
