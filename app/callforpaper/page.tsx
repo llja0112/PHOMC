@@ -45,7 +45,7 @@ export default function Page () {
                 <h3 className="text-center my-3">Guidelines and Instructions</h3>
                 <ol>
                   <li>
-                    All abstracts must be submitted using the ABSTRACT SUBMISSION FORM below and email to phom2024@ams.edu.sg not later than the 30 June 2024. Only abstracts submitted via the email will be accepted.
+                    All abstracts must be submitted using the ABSTRACT SUBMISSION FORM below and email to phom2024@ams.edu.sg not later than the 31 July 2024. Only abstracts submitted via the email will be accepted.
                   </li>
                   <li>
                     Abstracts and presentations must be written in English.
