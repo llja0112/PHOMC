@@ -32,7 +32,14 @@ export default function HomeNavbar () {
             <Nav.Link as={Link} href="/speakers">Speakers</Nav.Link>
             <Nav.Link as={Link} href="/registration">Registration</Nav.Link>
             <Nav.Link as={Link} href="/callforpaper">Call for paper</Nav.Link>
-            <Nav.Link as={Link} href="/sponsorship">Sponsorship</Nav.Link>
+            <NavDropdown title="Sponsors" align={{lg: 'start'}}>
+              <NavDropdown.Item as={Link} href="/sponsorship/sponsors">
+                Our sponsors
+              </NavDropdown.Item>
+              <NavDropdown.Item as={Link} href="/sponsorship/opportunities">
+                Sponsorship Opportunities
+              </NavDropdown.Item>
+            </NavDropdown>
             <NavDropdown title="Travel" align={{lg: 'start'}}>
               <NavDropdown.Item as={Link} href='/travel/venue'>
                 Venue
