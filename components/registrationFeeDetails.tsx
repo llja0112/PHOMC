@@ -5,8 +5,8 @@ export default function RegistrationFeeDetails() {
         <thead>
           <tr>
             <th scope="col">Ticket Type</th>
-            <th scope="col">Early Bird Rate<br /><small className="text-muted">(Ends 31st July 2024)</small></th>
-            <th scope="col">Regular Rate<br /><small className="text-muted">(Starts 1st August 2024)</small></th>
+            <th scope="col">Early Bird Rate<br /><small className="text-muted">(Ends 14th August 2024)</small></th>
+            <th scope="col">Regular Rate<br /><small className="text-muted">(Starts 15th August 2024)</small></th>
           </tr>
         </thead>
         <tbody>
@@ -49,7 +49,7 @@ export default function RegistrationFeeDetails() {
           Register Now
         </a>
         <br />
-        <em className="text-danger">Register before 31st July 2024 to enjoy early bird rates.</em>
+        <em className="text-danger">Register by 14th August 2024 2359hrs to enjoy early bird rates.</em>
       </p>
     </>
   );
