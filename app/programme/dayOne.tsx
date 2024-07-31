@@ -33,6 +33,7 @@ export default function DayOne () {
                 <b>Welcome Remarks</b> <br /> 
                 Dr Wong Chiang Yin <br />
                 <em>
+                  Master <br />
                   Academy of Medicine, Singapore
                 </em>
               </p>

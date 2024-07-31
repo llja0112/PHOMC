@@ -80,7 +80,7 @@ export default function DayTwo () {
                     </p>
 
                     <p>
-                      <b>Data Copilot: Healthcare Analytics Democratised</b><br/>
+                      <b>Reimagining a Democratised Healthcare Sector</b><br/>
                       Mr Yeo Yong Kiat<br/>
                       <em>
                         Deputy Director, Policy, Strategy & Design<br/>
@@ -162,7 +162,7 @@ export default function DayTwo () {
                 <b>Plenary 4: Frontiers in Infectious Disease Prevention and Pandemic Response</b>
               </p>
               <p>
-                <b>The Communicable Disease Agency – Integration for Efficient and Coordinated Outbreak Response</b><br/> 
+                <b>The Communicable Diseases Agency - Integration for Effective and Coordinated Management of Communicable Diseases</b><br/> 
                 Prof Vernon Lee<br/>
                 <em>
                   Executive Director<br/>
@@ -170,19 +170,20 @@ export default function DayTwo () {
                 </em>
               </p>
               <p>
-                <b>ACHS – Frontiers in Regional Biosecurity</b><br/>
-                Prof Hsu Liyang<br/>
+                <b>Regional Health Security from an Academic Lens</b><br/>
+                Prof Hsu Li Yang<br/>
                 <em>
-                  Director<br/>
-                  Asia Centre for Health Security 
+                  Director, Asia Centre for Health Security <br/>
+                  Vice Dean of Global Health, Saw Swee Hock School of Public Health<br/>
+                  National University of Singapore
                 </em>
               </p>
               <p>
                 <b>Frontiers in EID Research</b><br/>
                 Prof Kevin Bryan Tan<br/>
                 <em>
-                  Principal Health Economist<br/>
-                  Ministry of Health
+                  Head (Analytics & Behavioural Modelling CoOp), PREPARE <br />
+                  Principal Health Economist, Chief Health Economist Office, Ministry of Health
                 </em>
               </p>
               <p>
@@ -242,8 +243,7 @@ export default function DayTwo () {
                 <b>People Respond to Incentives. The Rest is Commentary</b><br/>
                 A/Prof Jeremy Lim<br/>
                 <em>
-                  Director, Leadership Institute of Global Health Transformation (LIGHT)<br/>
-                  Saw Swee Hock School of Public Health, National University of Singapore
+                  Public Health Specialist
                 </em>
               </p>
 
