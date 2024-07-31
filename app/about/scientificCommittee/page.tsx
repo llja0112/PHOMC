@@ -7,6 +7,8 @@ import RaymondLimPic from '@/public/scientificCommittee/RaymondLimBoonTar.jpeg';
 import BenjaminSeahPic from '@/public/scientificCommittee/BenjaminSeah.jpeg';
 import PremikhaPic from '@/public/scientificCommittee/Premikha.jpeg';
 import LimGimHuiPic from '@/public/scientificCommittee/LimGimHui.png';
+import AnneGoeiPic from '@/public/scientificCommittee/AnneGoei.jpg';
+import CelineTanPic from '@/public/scientificCommittee/CelineTan.jpg';
 
 export default function Page (){
   return(
@@ -62,6 +64,21 @@ export default function Page (){
                 <Image src={LimGimHuiPic} alt="Dr Lim Gim Hui" className="rounded-circle border" style={{height:"auto", width:"200px"}} />
                 <p>
                   Dr Lim Gim Hui
+                </p>
+              </div>
+            </div>
+
+            <div className="row">
+              <div className="col">
+                <Image src={AnneGoeiPic} alt="Dr Anne Goei Hui Yi" className="rounded-circle border" style={{height:"200px", width:"auto"}} />
+                <p>
+                  Dr Anne Goei Hui Yi
+                </p>
+              </div>
+              <div className="col">
+                <Image src={CelineTanPic} alt="Dr Celine Tan Yan Shan" className="rounded-circle border" style={{height:"200px", width:"auto"}} />
+                <p>
+                  Dr Celine Tan Yan Shan
                 </p>
               </div>
             </div>
