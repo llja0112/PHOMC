@@ -152,7 +152,35 @@ export default function DayTwo () {
           </tr>
           <tr>
             <th scope="row">11:45am</th>
-            <td colSpan={3}>Lunch Symposium by Sanofi - Public Immunisation Programme, the Real World Evidence (RWE) Case Study of RSV</td>
+            <td colSpan={3}>
+              <p>
+                <b>
+                  Lunch Symposium by Sanofi - Public Immunisation Programme, the Real World Evidence (RWE) Case Study of RSV
+                </b>
+              </p>
+              <p>
+                Dr Chan Si Min<br/>
+                <em>
+                  Infectious Diseases Senior Consultant, Department of Paediatrics<br/>
+                  National University Hospital
+                </em>
+              </p>
+              <p>
+                Prof Yung Chee Fu<br/>
+                <em>
+                  Infectious Diseases Senior Consultant, Department of Paediatrics<br/>
+                  KK Hospital
+                </em>
+              </p>
+
+              <p>
+                Dr Liew Woei Kang<br/>
+                <em>
+                  Paediatrician<br/>
+                  Mount Elizabeth Hospital
+                </em>
+              </p>
+            </td>
           </tr>
           
           <tr className="table-primary">
@@ -180,7 +208,7 @@ export default function DayTwo () {
               </p>
               <p>
                 <b>Frontiers in EID Research</b><br/>
-                Prof Kevin Bryan Tan<br/>
+                Prof Kelvin Bryan Tan<br/>
                 <em>
                   Head (Analytics & Behavioural Modelling CoOp), PREPARE <br />
                   Principal Health Economist, Chief Health Economist Office, Ministry of Health

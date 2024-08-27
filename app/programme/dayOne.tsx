@@ -111,6 +111,9 @@ export default function DayOne () {
             <th scope="row">01:15pm</th>
             <td colSpan={3}>
               <p>
+                <b className="text-muted">
+                  Andre Wansaicheong Lectureship
+                </b><br />
                 <b>Keynote 2: Safeguarding High Risk, Underserved, and Vulnerable Populations: A Public Health Imperative and Strategic Pillar for Economic Development</b><br />
                 Prof Michelle A. Williams <br /> 
                 <em>
