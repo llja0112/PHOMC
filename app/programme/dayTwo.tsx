@@ -52,10 +52,13 @@ export default function DayTwo () {
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
+                      <b>Session Chairs:</b> Dr Benjamin Seah and Dr Lim Gim Hui
+                    </p>
+                    <p>
                       <b>Technology & Health: A 21st Century Gordian Knot</b> <br/>
                       Prof Benjamin Seet<br/>
                       <em>
-                        Group Chairman Medical Board<br/>
+                        Group Chairman Medical Board (Research)<br/>
                         National Healthcare Group
                       </em><br/>
                       <Link className="btn btn-primary btn-sm mt-2" href="/speakers/10">More details</Link>
@@ -99,8 +102,11 @@ export default function DayTwo () {
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
+                      <b>Session Chairs:</b> Dr Sylvia Teo and Dr Lim Dwee Wee
+                    </p>
+                    <p>
                       <b>Heat Resilience - Bridging Research and Policy</b><br/>
-                      Dr Sharifah Badriyah<br/>
+                      Dr Sharifah Badriyah Alhadad<br/>
                       <em>
                         Research Fellow, Heat Resilience & Performance Centre, Yong Loo Lin School of Medicine<br/>
                         National University of Singapore  
@@ -190,11 +196,15 @@ export default function DayTwo () {
                 <b>Plenary 4: Frontiers in Infectious Disease Prevention and Pandemic Response</b>
               </p>
               <p>
+                <b>Session Chair:</b> Dr Lim Huai Yang
+              </p>
+              <p>
                 <b>The Communicable Diseases Agency - Integration for Effective and Coordinated Management of Communicable Diseases</b><br/> 
                 Prof Vernon Lee<br/>
                 <em>
                   Executive Director<br/>
-                  Interim Communicable Diseases Agency (Singapore) 
+                  Interim Communicable Diseases Agency<br/>
+                  Ministry of Health, Singapore
                 </em>
               </p>
               <p>
@@ -207,11 +217,12 @@ export default function DayTwo () {
                 </em>
               </p>
               <p>
-                <b>Frontiers in EID Research</b><br/>
-                Prof Kelvin Bryan Tan<br/>
+                <b>Data Management and Analytics for Successful Pandemic Response</b><br/>
+                Dr Calvin Chiew<br/>
                 <em>
-                  Head (Analytics & Behavioural Modelling CoOp), PREPARE <br />
-                  Principal Health Economist, Chief Health Economist Office, Ministry of Health
+                  Consultant, Analytics, Disease & Behaviour Modelling Co-operative <br />
+                  Programme for Research in Epidemic Preparedness & Response (PREPARE) <br />
+                  National Centre for Infectious Diseases, Singapore
                 </em>
               </p>
               <p>
@@ -250,11 +261,14 @@ export default function DayTwo () {
                 <b>Plenary 5: Frontiers in Healthcare Policy Innovation</b>
               </p>
               <p>
+                <b>Session Chair:</b> Dr Lim Huai Yang
+              </p>
+              <p>
                 <b>Transforming Singapore’s Health Regulatory Ecosystem - Regulating the Future of Health</b><br/>
                 Adj A/Prof Raymond Chua<br/>
                 <em>
                   Deputy Director-General Health (Health Regulation Group)<br/>
-                  Ministry of Health
+                  Ministry of Health, Singapore
                 </em>
               </p>
               <p>
@@ -272,6 +286,15 @@ export default function DayTwo () {
                 A/Prof Jeremy Lim<br/>
                 <em>
                   Public Health Specialist
+                </em>
+              </p>
+
+              <p>
+                <b>Health Policy Making in the Real World</b><br/>
+                Prof Lee Chien Earn<br/>
+                <em>
+                  Deputy Group CEO (Regional Health System), SingHealth<br/>
+                  Chairman, Eastern General and Community Hospitals Planning Committee
                 </em>
               </p>
 

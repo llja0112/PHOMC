@@ -41,9 +41,12 @@ export default function DayOne () {
                 <b>Opening Address by Guest of Honour</b><br />
                 Ms Lai Wei Lin <br /> 
                 <em>
-                  Permanent Secretary<br />
+                  Permanent Secretary (Policy and Development)<br />
                   Ministry of Health
                 </em>
+              </p>
+              <p>
+                <b>Lifetime Achievement Awards</b>
               </p>
             </td>
           </tr>
@@ -51,7 +54,11 @@ export default function DayOne () {
             <th scope="row">09:15am</th>
             <td colSpan={3}>
               <p>
-                <b>Keynote 1: Extending the Frontiers in Health through Evidence-based Contextualisation: Contributions from the Social and Behavioural Sciences</b><br />
+                <b>Keynote 1</b> <br />
+                <b>Session Chair:</b> Dr Lim Huai Yang
+              </p>
+              <p>
+                <b>Extending the Frontiers in Health through Evidence-based Contextualisation: Contributions from the Social and Behavioural Sciences</b><br />
                 Prof David Chan <br/>
                 <em>
                   Lee Kong Chian Professor of Psychology and Director of Behavioural Sciences Initiative <br />
@@ -69,15 +76,8 @@ export default function DayOne () {
             <th scope="row">10:30am</th>
             <td colSpan={3}>
               <p>
-                <b>Plenary 1: Frontiers in Primary Care</b>
-              </p>
-              <p>
-                <b>Overview of PHC Global Report - 'Implementing the Primary Health Care Approach: a Primer'</b><br />
-                Dr Faraz Khalid<br />
-                <em>
-                  Research & Innovation Officer, Special Program for Primary Healthcare<br />
-                  World Health Organization Headquarter
-                </em>
+                <b>Plenary 1: Frontiers in Primary Care</b><br />
+                <b>Session Chair:</b> Dr M Premikha
               </p>
               <p>
                 <b>The Future of Primary Care in Population Health (& Vice-Versa): Insights from a Personal Journey</b><br />
@@ -87,6 +87,14 @@ export default function DayOne () {
                   MOH Office of Healthcare Transformation
                 </em><br />
                 <Link className="btn btn-primary btn-sm mt-2" href="/speakers/9">More details</Link>
+              </p>
+              <p>
+                <b>Overview of PHC Global Report - 'Implementing the Primary Health Care Approach: a Primer'</b><br />
+                Dr Faraz Khalid<br />
+                <em>
+                  Research & Innovation Officer, Special Program for Primary Healthcare<br />
+                  World Health Organization Headquarter
+                </em>
               </p>
               <p>
                 <b>Hospital Care Beyond Hospital Walls</b><br />
@@ -105,7 +113,35 @@ export default function DayOne () {
           </tr>
           <tr>
             <th scope="row">12:30am</th>
-            <td colSpan={3}>Lunch Symposium</td>
+            <td colSpan={3}>
+              <p>
+                <b>Lunch Symposium by Pfizer</b><br />
+                <b>The Future of Respiratory Disease Prevention in Healthier Ageing: Insights and Innovations</b>
+              </p>
+              <p>
+                Prof John Arputhan Abisheganaden<br />
+                <em>
+                  Director and Senior Consultant<br />
+                  Health Services & Outcomes Research<br />
+                  National Healthcare Group, Singapore
+                </em>
+              </p>
+              <p>
+                Dr Tham Tat Yean <br />
+                <em>
+                  CEO & Family Physician<br />
+                  Frontier Healthcare Group
+                </em>
+              </p>
+              <p>
+                Prof Tikki Elka Pangestu<br />
+                <em>
+                  Visiting Professor<br />
+                  Yong Loo Lin School of Medicine<br />
+                  National University of Singapore
+                </em>
+              </p>
+            </td>
           </tr>
           <tr className="table-primary">
             <th scope="row">01:15pm</th>
@@ -114,7 +150,11 @@ export default function DayOne () {
                 <b className="text-muted">
                   Andre Wansaicheong Lectureship
                 </b><br />
-                <b>Keynote 2: Safeguarding High Risk, Underserved, and Vulnerable Populations: A Public Health Imperative and Strategic Pillar for Economic Development</b><br />
+                <b>Keynote 2</b><br />
+                <b>Session Chair:</b> Dr Lim Huai Yang
+              </p>
+              <p>
+                <b>Safeguarding High Risk, Underserved, and Vulnerable Populations: A Public Health Imperative and Strategic Pillar for Economic Development</b><br />
                 Prof Michelle A. Williams <br /> 
                 <em>
                   Joan and Julius Jacobson Professor of Epidemiology and Public Health <br />
@@ -131,7 +171,8 @@ export default function DayOne () {
             <th scope="row">02:00pm</th>
             <td colSpan={3}>
               <p>
-                <b>Plenary 2: Longevity Medicine – Pushing the Boundaries for Healthy Aging</b>
+                <b>Plenary 2: Longevity Medicine – Pushing the Boundaries for Healthy Aging</b><br />
+                <b>Session Chair:</b> Dr Lim Dwee Wee
               </p>
               <p>
                 <b>Diet and Healthy Longevity – Examining the Fine Print in the Evidence</b><br />
@@ -171,7 +212,8 @@ export default function DayOne () {
             <th scope="row">03:15pm</th>
             <td colSpan={3}>
               <p>
-                <b>Plenary 3: Age is Just a Number - Building Frailty Resilient Communities</b>
+                <b>Plenary 3: Age is Just a Number - Building Frailty Resilient Communities</b><br />
+                <b>Session Chair:</b> Dr Lim Dwee Wee
               </p>
               <p>
                 <b>Moving from Frailty-readiness to Frailty-resilience: Can We Get There?</b><br /> 
@@ -214,13 +256,19 @@ export default function DayOne () {
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
-                      <b>Mind The Gap - Bridging the Digital Divide in Healthcare</b><br />
-                      Adj Asst Prof Ng Yih Yng <br />
+                      <b>Session Chair:</b> Dr Tyson Chan
+                    </p>
+                    
+                    <p>
+                      <b>Digital Innovation in Population Health</b><br />
+                      Adj A/Prof Eugene Shum<br />
                       <em>
-                        Director, Digital and Smart Health Office, Centre for Healthcare Innovation<br/>
-                        National Healthcare Group
+                        Director, Community Partnership<br />
+                        SingHealth Office of Regional Health< br />
+                        Singhealth
                       </em>
                     </p>
+
                     <p>
                       <b>CHAMP - Automated Chronic Disease Management at Scale</b><br />
                       Dr Wayne Han Lee<br />
@@ -233,20 +281,21 @@ export default function DayOne () {
                     </p>
 
                     <p>
-                      <b>Digital Innovation in Population Health</b><br />
-                      A/Prof Eugene Shum<br />
-                      <em>
-                        Director, Community Partnership<br />
-                        SingHealth Office of Regional Health
-                      </em>
-                    </p>
-
-                    <p>
                       <b>Inclusive Service Delivery</b><br />
                       Mr Eyung Lim<br />
                       <em>
                         Director, Digital Government Platform<br />
-                        Government Technology Agency of Singapore
+                        Government Technology Agency
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>Mind The Gap - Bridging the Digital Divide in Healthcare</b><br />
+                      Adj Asst Prof Ng Yih Yng <br />
+                      <em>
+                        Director, Digital and Smart Health Office<br /> 
+                        Centre for Healthcare Innovation<br/>
+                        National Healthcare Group
                       </em>
                     </p>
                   </Accordion.Body>
@@ -254,10 +303,13 @@ export default function DayOne () {
                 <Accordion.Item eventKey='1'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 2:</strong> Frontiers in Aviation Medicine
+                      <strong className="text-primary">Track 2:</strong> Updates in Aviation Medicine & Psychology
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
+                    <p>
+                      <b>Session Chair:</b> Dr Benjamin Seah
+                    </p>
                     <p>
                       <b>Coronary Artery Disease in Aviators – New Concepts and Insights</b><br />
                       Dr Koh Choong Hou <br />
@@ -305,42 +357,45 @@ export default function DayOne () {
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
-                      <p>
-                        <b>Migrant Health in Singapore: Infectious and Non-Infectious Challenges Pre- and Post- COVID</b> <br />
-                        Adj Asst Prof Shawn Vasoo<br /> 
-                        <em>
-                          Clinical Director<br />
-                          National Centre for Infectious Diseases                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                        </em><br/>
-                        <Link className="btn btn-primary btn-sm mt-2" href="/speakers/4">More details</Link>
-                      </p>
+                    <p>
+                      <b>Session Chair:</b> Dr Sylvia Teo
+                    </p>
+                    <p>
+                      <b>Migrant Health in Singapore: Infectious and Non-Infectious Challenges Pre- and Post- COVID</b> <br />
+                      Adj Asst Prof Shawn Vasoo<br /> 
+                      <em>
+                        Clinical Director<br />
+                        National Centre for Infectious Diseases                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                      </em><br/>
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/4">More details</Link>
+                    </p>
 
-                      <p>
-                        <b>Caring for Migrant Workers- “Joining Hands, Building Bonds"</b><br />
-                        Dr Halina Talib<br />
-                        <em>
-                          Deputy Director (Medical Policy), Assurance, Care & Engagement (ACE) Group<br />
-                          Ministry of Manpower
-                        </em><br/>
-                        <Link className="btn btn-primary btn-sm mt-2" href="/speakers/0">More details</Link>
-                      </p>                                                                                                     
+                    <p>
+                      <b>Caring for Migrant Workers- “Joining Hands, Building Bonds"</b><br />
+                      Dr Halina Talib<br />
+                      <em>
+                        Deputy Director (Medical Policy), Assurance, Care & Engagement (ACE) Group<br />
+                        Ministry of Manpower
+                      </em><br/>
+                      <Link className="btn btn-primary btn-sm mt-2" href="/speakers/0">More details</Link>
+                    </p>                                                                                                     
 
-                      <p>
-                        <b>Providing Holistic Primary Care through Singapore's First Medical Centre for Migrant Workers -- St Andrew's Migrant Worker Medical Centre</b><br />
-                        Dr Loh Yik Hin<br />
-                        <em>
-                          Chief Executive Officer<br /> 
-                          St. Andrew's Community Hospital 
-                        </em>
-                      </p>
-                      <p>
-                        <b>Bridging Gaps: Mental Health Care for Migrant Workers Facing Work-Related Injuries</b><br/>
-                        Ms Durga Devi Arivan<br/>
-                        <em>
-                          Manager, Psychotherapy and Counselling<br/>
-                          HealthServe
-                        </em>
-                      </p>
+                    <p>
+                      <b>Providing Holistic Primary Care through Singapore's First Medical Centre for Migrant Workers -- St Andrew's Migrant Worker Medical Centre</b><br />
+                      Dr Loh Yik Hin<br />
+                      <em>
+                        Chief Executive Officer<br /> 
+                        St. Andrew's Community Hospital 
+                      </em>
+                    </p>
+                    <p>
+                      <b>Bridging Gaps: Mental Health Care for Migrant Workers Facing Work-Related Injuries</b><br/>
+                      Ms Durga Devi Arivan<br/>
+                      <em>
+                        Manager, Psychotherapy and Counselling<br/>
+                        HealthServe
+                      </em>
+                    </p>
                   </Accordion.Body>
                 </Accordion.Item>
               </Accordion>
