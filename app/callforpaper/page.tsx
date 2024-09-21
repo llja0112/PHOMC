@@ -1,6 +1,5 @@
 "use client"
 import PaperDeadline from "@/components/paperDeadline";
-import ScrollSpy from "react-ui-scrollspy";
 
 export default function Page () {
   return (

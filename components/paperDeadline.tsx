@@ -5,10 +5,10 @@ import { Chrono } from './reactChronoClient';
 export default function PaperDeadline(){
   const items = [{
     title: "1st April 2024",
-    cardTitle: "Call for papers",
+    cardTitle: "Call for papers start",
   }, {
     title: "31st July 2024",
-    cardTitle: "Call for papers CLOSED",
+    cardTitle: "Call for papers submission deadline",
   }, {
     title: "31st August 2024",
     cardTitle: "Notification of paper acceptance",
@@ -22,7 +22,7 @@ export default function PaperDeadline(){
       {items.map((item, index) => (
         <div className="text-center" key={index}>
           <h3 className="fs-5">
-            {index == 0 || index == 1 ? <s>{item.title}</s> : item.title}
+            <s>{item.title}</s>
           </h3>
           <p className="text-muted">{item.cardTitle}</p>
         </div>
