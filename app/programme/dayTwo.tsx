@@ -22,7 +22,12 @@ export default function DayTwo () {
             <th scope="row">09:00am</th>
             <td colSpan={3}>
               <p>
-                <b>Keynote 3: Global Occupational Health: Challenges and Opportunities of AI, Automation and Robotics</b><br/>
+                <p>
+                  <b>Keynote 3</b> <br />
+                  <b>Session Chair:</b> Dr Lim Huai Yang
+                </p>
+
+                <b>Global Occupational Health: Challenges and Opportunities of AI, Automation and Robotics</b><br/>
                 Prof Kenji Saito<br/>
                 <em>
                   Immediate Past President<br/>
@@ -47,7 +52,7 @@ export default function DayTwo () {
                 <Accordion.Item eventKey='0'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 4:</strong> Game Changing Technology in Health
+                      <strong className="text-primary">Track 4:</strong> Game Changing Technology in Health | <span className="text-danger">VENUE: AUDITORIUM</span>
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
@@ -68,7 +73,7 @@ export default function DayTwo () {
                       A/Prof Gan Wee Hoe<br/>
                       <em>
                         Chief Executive Officer, SingHealth Community Hospitals<br/>
-                        Singapore Health Services
+                        Senior Consultant, Department of Occupational & Environmental Medicine, Singapore General Hospital
                       </em>
                     </p>
                     <p>
@@ -97,7 +102,7 @@ export default function DayTwo () {
                 <Accordion.Item eventKey='1'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 5:</strong> Frontiers in Occupational Health
+                      <strong className="text-primary">Track 5:</strong> Frontiers in Occupational Health | <span className="text-danger">VENUE: L1-S1</span>
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
@@ -146,11 +151,104 @@ export default function DayTwo () {
                 <Accordion.Item eventKey='2'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 6:</strong> Free Paper
+                      <strong className="text-primary">Track 6:</strong> Free Paper | <span className="text-danger">VENUE: L1-S3</span>
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
-                    <strong>To be announced closer to date</strong>
+                    <p>
+                      <b>Session Chair:</b> Dr Raymond Lim
+                    </p>
+
+                    <p>
+                      <b>Intraoperative Adverse Events Among Surgeons in Singapore: A Mixed Methods Study on Perceived Impact and Support Systems</b><br/>
+                      Dr Ng Qin Xiang<br/>
+                      <em>
+                        Resident, Preventive Medicine<br/>
+                        National University Health System
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>Exploring Perceptions of Pregnancy-Related Illnesses and Treatment Methods in Kei Besar Island, Maluku, Indonesia</b><br/>
+                      Dr M Premikha<br/>
+                      <em>
+                        Resident, Preventive Medicine<br/>
+                        National University Health System
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>Problematic Smartphone Use (PSU) Among Working Adults in Eastern Singapore: A Household Cross-Sectional Study </b><br/>
+                      Dr Tan Yin Zhien<br/>
+                      <em>
+                        Resident, Preventive Medicine<br/>
+                        National University Health System
+                      </em>
+                    </p>
+                    <p>
+                      <b>Developing and Validating a Self-report Scale for Assessing Health Resilience in the Community-dwelling Adults: A Cross-sectional Study</b><br/>
+                      Ms Ge Lixia<br/>
+                      <em>
+                        Senior Research Analyst, Health Services and Outcomes Research <br/>
+                        National Healthcare Group
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>
+                        Knowledge, Attitudes, and Determinants of Influenza and Pneumococcal Vaccine Uptake Among General Population, Patients, and Healthcare Workers (HCWs) in Northwest Singapore
+                      </b><br/>
+                      Miss Zhao Dan<br/>
+                      <em>
+                        Principal Epidemiologist <br/>
+                        Woodlands Health
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>
+                        Patients’ Perspectives on a Primary-care Partnership Programme (GPFirst) to Reduce Emergency Department Use for Low Acuity Conditions – A Qualitative Study
+                      </b><br/>
+                      Ms Rebecca Ong Hui Shan<br/>
+                      <em>
+                        Assistant Manager<br/>
+                        Changi General Hospital
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>
+                        Visit-to-visit HbA1c Variability and Risk of Mortality and Diabetes-related Vascular Complications Among Adult Type 2 Diabetes Mellitus (T2DM) Patients
+                      </b><br/>
+                      Mr Lim Yi Dong Moses<br/>
+                      <em>
+                        Senior Epidemiologist<br/> 
+                        Tan Tock Seng Hospital 
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>
+                        External Validation of the ISARIC 4C Score and a Chest Radiograph-based Deep-learning Model for Predicting COVID-19 Mortality and Severity
+                      </b><br/>
+                      Mr Koh Xuan Han<br />
+                      <em>
+                        Analyst <br/> 
+                        Changi General Hospital
+                      </em>
+                    </p>
+
+                    <p>
+                      <b>
+                        Potential Public Health Impact of Respiratory Syncytial Virus Infection Among Older Adults in Singapore
+                      </b><br/>
+                      Clinical A/Prof Helen Ong<br/>
+                      <em>
+                        Senior Consultant<br/>
+                        Changi General Hospital
+                      </em>
+                    </p>
+
                   </Accordion.Body>
                 </Accordion.Item>
               </Accordion>
@@ -196,7 +294,7 @@ export default function DayTwo () {
                 <b>Plenary 4: Frontiers in Infectious Disease Prevention and Pandemic Response</b>
               </p>
               <p>
-                <b>Session Chair:</b> Dr Lim Huai Yang
+                <b>Session Chair:</b> Dr Celine Tan
               </p>
               <p>
                 <b>The Communicable Diseases Agency - Integration for Effective and Coordinated Management of Communicable Diseases</b><br/> 
@@ -267,8 +365,8 @@ export default function DayTwo () {
                 <b>Transforming Singapore’s Health Regulatory Ecosystem - Regulating the Future of Health</b><br/>
                 Adj A/Prof Raymond Chua<br/>
                 <em>
-                  Deputy Director-General Health (Health Regulation Group)<br/>
-                  Ministry of Health, Singapore
+                  Chief Executive Officer-Designate, Health Sciences Authority, Singapore<br/>
+                  Deputy Director-General Health (Health Regulation Group), Ministry of Health, Singapore
                 </em>
               </p>
               <p>

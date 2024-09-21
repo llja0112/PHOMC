@@ -89,7 +89,7 @@ export default function DayOne () {
                 <Link className="btn btn-primary btn-sm mt-2" href="/speakers/9">More details</Link>
               </p>
               <p>
-                <b>Overview of PHC Global Report - 'Implementing the Primary Health Care Approach: a Primer'</b><br />
+                <b>Leveraging Evidence to Accelerate Primary Healthcare Transformations: Three Novel Global Products</b><br />
                 Dr Faraz Khalid<br />
                 <em>
                   Research & Innovation Officer, Special Program for Primary Healthcare<br />
@@ -251,7 +251,7 @@ export default function DayOne () {
                 <Accordion.Item eventKey='0'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 1:</strong> Frontiers in Digital Health
+                      <strong className="text-primary">Track 1:</strong> Frontiers in Digital Health | <span className="text-danger">VENUE: AUDITORIUM</span>
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
@@ -303,7 +303,7 @@ export default function DayOne () {
                 <Accordion.Item eventKey='1'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 2:</strong> Updates in Aviation Medicine & Psychology
+                      <strong className="text-primary">Track 2:</strong> Updates in Aviation Medicine & Psychology | <span className="text-danger">VENUE: L1-S1</span>
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
@@ -353,7 +353,7 @@ export default function DayOne () {
                 <Accordion.Item eventKey='2'>
                   <Accordion.Header>
                     <div>
-                      <strong className="text-primary">Track 3:</strong> Advances in Healthcare for the Vulnerable
+                      <strong className="text-primary">Track 3:</strong> Advances in Healthcare for the Vulnerable | <span className="text-danger">VENUE: L1-S3</span>
                     </div>
                   </Accordion.Header>
                   <Accordion.Body>
