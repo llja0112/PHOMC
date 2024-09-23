@@ -112,7 +112,7 @@ export default function DayOne () {
             </td>
           </tr>
           <tr>
-            <th scope="row">12:30am</th>
+            <th scope="row">12:30pm</th>
             <td colSpan={3}>
               <p>
                 <b>Lunch Symposium by Pfizer</b><br />
